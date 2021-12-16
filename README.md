@@ -1,0 +1,1 @@
+# I just wanted to refresh my memory how to call an API in a Node app so here is an extremely simple weather app.  Just load it up in local host and type: http://localhost:3000/?city=casablanca to see the current weather of casablanca. Or switch casablanca for any other city!
